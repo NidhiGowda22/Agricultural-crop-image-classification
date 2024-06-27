@@ -1,0 +1,266 @@
+.wireframe {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.wireframe .div {
+  background-color: #ffffff;
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+}
+
+.wireframe .overlap {
+  position: absolute;
+  width: 1440px;
+  height: 70px;
+  top: 113px;
+  left: 0;
+  background-color: #1e301e;
+}
+
+.wireframe .WEATHER {
+  position: absolute;
+  top: 20px;
+  left: 107px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.wireframe .text-wrapper {
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+}
+
+.wireframe .span {
+  font-size: 24px;
+}
+
+.wireframe .overlap-group {
+  position: absolute;
+  width: 24px;
+  height: 29px;
+  top: 23px;
+  left: 232px;
+}
+
+.wireframe .outline-cloud {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 0;
+  left: 0;
+}
+
+.wireframe .outline-waterdrop {
+  position: absolute;
+  width: 8px;
+  height: 9px;
+  top: 20px;
+  left: 8px;
+}
+
+.wireframe .outline-user-wrapper {
+  position: absolute;
+  width: 95px;
+  height: 33px;
+  top: 14px;
+  left: 1292px;
+  background-image: url(./img/rectangle-28.svg);
+  background-size: 100% 100%;
+}
+
+.wireframe .outline-user {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 4px;
+  left: 36px;
+}
+
+.wireframe .overlap-2 {
+  position: absolute;
+  width: 1440px;
+  height: 157px;
+  top: 867px;
+  left: 0;
+}
+
+.wireframe .text {
+  position: absolute;
+  top: 40px;
+  left: 336px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.wireframe .rectangle {
+  position: absolute;
+  width: 1440px;
+  height: 157px;
+  top: 0;
+  left: 0;
+  background-color: #1e301e;
+}
+
+.wireframe .text-wrapper-2 {
+  position: absolute;
+  width: 41px;
+  top: 78px;
+  left: 523px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.wireframe .CONTACT-US {
+  position: absolute;
+  top: 78px;
+  left: 759px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.wireframe .div-wrapper {
+  position: absolute;
+  width: 1403px;
+  height: 308px;
+  top: 228px;
+  left: 22px;
+  background-color: #d9d9d9;
+}
+
+.wireframe .p {
+  position: absolute;
+  top: 112px;
+  left: 484px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.wireframe .overlap-3 {
+  position: absolute;
+  width: 492px;
+  height: 85px;
+  top: 573px;
+  left: 121px;
+  background-color: #3e643e;
+}
+
+.wireframe .text-wrapper-3 {
+  position: absolute;
+  top: 30px;
+  left: 137px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.wireframe .img {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 31px;
+  left: 92px;
+}
+
+.wireframe .overlap-4 {
+  position: absolute;
+  width: 492px;
+  height: 85px;
+  top: 573px;
+  left: 835px;
+  background-color: #3e643e;
+}
+
+.wireframe .text-wrapper-4 {
+  position: absolute;
+  top: 30px;
+  left: 146px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.wireframe .outline-air {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 31px;
+  left: 105px;
+}
+
+.wireframe .overlap-group-2 {
+  position: absolute;
+  width: 492px;
+  height: 85px;
+  top: 720px;
+  left: 460px;
+  background-color: #3e643e;
+}
+
+.wireframe .outline-bolt {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 31px;
+  left: 104px;
+}
+
+.wireframe .text-wrapper-5 {
+  position: absolute;
+  top: 38px;
+  left: 671px;
+  font-family: "Inika-Bold", Helvetica;
+  font-weight: 700;
+  color: #3e643e;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.wireframe .screenshot {
+  position: absolute;
+  width: 144px;
+  height: 74px;
+  top: 20px;
+  left: 11px;
+  object-fit: cover;
+}

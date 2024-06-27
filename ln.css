@@ -1,0 +1,135 @@
+.wireframe {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.wireframe .div {
+  background-color: #ffffff;
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+}
+
+.wireframe .overlap {
+  position: absolute;
+  width: 1440px;
+  height: 70px;
+  top: 107px;
+  left: 0;
+  background-color: #1e301e;
+}
+
+.wireframe .LATEST-NEWS {
+  position: absolute;
+  top: 20px;
+  left: 95px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.wireframe .outline-document {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 23px;
+  left: 278px;
+}
+
+.wireframe .overlap-group {
+  position: absolute;
+  width: 95px;
+  height: 33px;
+  top: 21px;
+  left: 1291px;
+  background-image: url(./img/rectangle-27.svg);
+  background-size: 100% 100%;
+}
+
+.wireframe .outline-user {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 4px;
+  left: 36px;
+}
+
+.wireframe .displays-the-latest-wrapper {
+  position: absolute;
+  width: 1186px;
+  height: 613px;
+  top: 206px;
+  left: 64px;
+  background-color: #d9d9d9;
+}
+
+.wireframe .displays-the-latest {
+  position: absolute;
+  top: 225px;
+  left: 322px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.wireframe .outline-heart {
+  top: 225px;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 1330px;
+}
+
+.wireframe .outline-bookmark {
+  top: 286px;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 1330px;
+}
+
+.wireframe .outline-message {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 347px;
+  left: 1330px;
+}
+
+.wireframe .outline-share {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 408px;
+  left: 1330px;
+}
+
+.wireframe .text-wrapper {
+  position: absolute;
+  top: 51px;
+  left: 705px;
+  font-family: "Inika-Bold", Helvetica;
+  font-weight: 700;
+  color: #3e643e;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.wireframe .screenshot {
+  position: absolute;
+  width: 144px;
+  height: 74px;
+  top: 33px;
+  left: 45px;
+  object-fit: cover;
+}

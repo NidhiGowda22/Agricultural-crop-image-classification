@@ -1,0 +1,133 @@
+.wireframe {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.wireframe .div {
+  background-color: #ffffff;
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+}
+
+.wireframe .overlap-group {
+  position: absolute;
+  width: 1440px;
+  height: 157px;
+  top: 867px;
+  left: 0;
+}
+
+.wireframe .text {
+  position: absolute;
+  top: 40px;
+  left: 336px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.wireframe .rectangle {
+  position: absolute;
+  width: 1440px;
+  height: 157px;
+  top: 0;
+  left: 0;
+  background-color: #1e301e;
+}
+
+.wireframe .text-wrapper {
+  position: absolute;
+  width: 41px;
+  top: 78px;
+  left: 523px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.wireframe .CONTACT-US {
+  position: absolute;
+  top: 78px;
+  left: 759px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.wireframe .rectangle-2 {
+  position: absolute;
+  width: 1159px;
+  height: 613px;
+  top: 205px;
+  left: 84px;
+  background-color: #e7fae7;
+}
+
+.wireframe .outline-heart {
+  top: 188px;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 1339px;
+}
+
+.wireframe .outline-bookmark {
+  top: 249px;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 1339px;
+}
+
+.wireframe .outline-message {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 310px;
+  left: 1339px;
+}
+
+.wireframe .outline-share {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 371px;
+  left: 1339px;
+}
+
+.wireframe .text-wrapper-2 {
+  position: absolute;
+  top: 18px;
+  left: 680px;
+  font-family: "Inika-Bold", Helvetica;
+  font-weight: 700;
+  color: #3e643e;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.wireframe .screenshot {
+  position: absolute;
+  width: 144px;
+  height: 74px;
+  top: 0;
+  left: 20px;
+  object-fit: cover;
+}
